@@ -10,7 +10,7 @@ and **agile methodologies**. I am currently working as a **Software Engineer** i
 So far I've been working on solutions for **airlines**, **banks**, **telecommunications industry**
 and system for **Polish Post**. I was also involved in a research project related to
 UrbanFlood, "**Early Warning System Framework for European Cities**" (EU Grant agreement no. 248767) 
-and Virtual Physiological Human (**Sharing for Healthcare**) (EU Grant agreement no. 269978).
+and Virtual Physiological Human: **Sharing for Healthcare** (EU Grant agreement no. 269978).
 
 Regarding education: I graduated from the **AGH University of Science and Technology** in Krakow,
 majoring in **computer science** and earning both a **bachelor's** and **master's degree**.
