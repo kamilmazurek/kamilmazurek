@@ -2,7 +2,7 @@
 
 ### I help with software development
 
-For over **14 years** I have been helping with **delivering software solutions**.
+For over **15 years** I have been helping with **delivering software solutions**.
 
 I work mainly as a **Software Developer**, but I also help with **analysis**, **architecture**, **testing**,
 and **agile methodologies**. I am currently working as a **Software Engineer** in **Warsaw, Poland**.
